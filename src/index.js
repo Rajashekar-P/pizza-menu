@@ -128,5 +128,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-// comment added
